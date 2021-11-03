@@ -31,4 +31,3 @@ Check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Ma
 
 
 # Piyasha
-Piyasha is a custom rom    
